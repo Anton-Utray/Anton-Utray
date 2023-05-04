@@ -19,5 +19,5 @@
 - 📫 How to reach me: antonutray@gmail.com
 - ⚡ Fun fact: I´m a crazy plant lady and loving cat dad 🐈 🌷 
   
-  Data Analyst 🐍 Python👨🏻‍💻Power BI 📉 Tableau 📚 SQL ⚛️ Machine Learning
+
 
