@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h3 align="center">Hello Stalker!👋!</h3>
+   <h3 align="center">Hello Stalker!👋👀!</h3>
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 </p>
   
 - 👋 Hi, I’m @Anton-Utray
-- 👀 I’m interested in Data Analytics applied to Sustainability.
-- 🌱 I’m currently learning Data Science at IronHack.
-- 💞️ I’m looking to collaborate on Impact measurement of water scarcity and sustainable water management.
+- 🌱 I’m interested in Data Analytics applied to Sustainability.
+- 🤓 I’m currently learning Data Science at IronHack.
+- 🤝 I’m looking to collaborate on Impact measurement of water scarcity and sustainable water management. 💧 
 - 📫 How to reach me: antonutray@gmail.com
 - ⚡ Fun fact: I´m a crazy plant lady and loving cat dad 🐈 🌷 
   
