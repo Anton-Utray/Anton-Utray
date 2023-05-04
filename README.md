@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60BD59&width=600&lines=I%C2%B4m+Anton+Utray+%F0%9F%A4%93%E2%80%8A;Passionate+about+SUSTAINABILITY+and+DATA+%F0%9F%8C%8E%E2%80%8A%E2%80%8A%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%80%8A" alt="Typing SVG" /></a>
 
-  <p align="center"> <strong>Data Analyst</strong> with background in Luxury Retail and Ecommerce.<br /> know me better👇!</p>
+  <p align="center"> <strong>Data Analyst</strong> with background in Luxury Retail and Ecommerce.<br /> Let´s connect 👇!</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/anton-utray/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
