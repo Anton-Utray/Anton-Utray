@@ -7,7 +7,7 @@
 
   <p align="center"> <strong>Data Analyst</strong> with background in Luxury Retail and Ecommerce.<br /> know me better👇!</p>
 <p align="center">
-   <a href="https://linkedin.com/in/anton-utray/" target="blank" style='margin-right:4px'>
+   <a href="https://www.linkedin.com/in/anton-utray/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
   </a>
 </p>
