@@ -14,7 +14,7 @@
   
 - 👋 Hi, I’m @Anton-Utray
 - 🌱 I’m interested in Data Analytics applied to Sustainability.
-- 🤓 I’m currently learning Data Science at IronHack.
+- 🤓 Just finished a bootcamp in Data Science at IronHack.
 - 🤝 I’m looking to collaborate on Impact measurement of water scarcity and sustainable water management. 💧 
 - 📫 How to reach me: antonutray@gmail.com
 - ⚡ Fun fact: I´m a crazy plant lady and loving cat dad 🐈 🌷 
